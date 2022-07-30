@@ -16,3 +16,5 @@ Project consists of chronologically clustering an initial load/demand profile fo
   <li><b> Google Colab </b>
 </ul>
 
+<h2> Publication </h2>
+Article can be found <a href="https://link.springer.com/chapter/10.1007/978-3-030-61725-7_11"> here </a>
